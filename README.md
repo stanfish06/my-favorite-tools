@@ -8,3 +8,5 @@ Keep track of my favorite tools and repos
 - Terminal
   - [Wezterm](https://github.com/wezterm/wezterm.git)
   - [Starship](https://github.com/starship/starship.git)
+  - [zoxide](https://github.com/ajeetdsouza/zoxide.git)
+  - [PSfzf](https://github.com/kelleyma49/PSFzf.git)
