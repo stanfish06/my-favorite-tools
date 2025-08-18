@@ -10,3 +10,5 @@ Keep track of my favorite tools and repos
   - [Starship](https://github.com/starship/starship.git)
   - [zoxide](https://github.com/ajeetdsouza/zoxide.git)
   - [PSfzf](https://github.com/kelleyma49/PSFzf.git)
+- Others
+  - [calibre](https://github.com/kovidgoyal/calibre.git)
